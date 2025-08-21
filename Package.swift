@@ -1,10 +1,4 @@
-//
-//  Package.swift
-//  LoveLocal
-//
-//  Created by Fahim on 14/08/25.
-//
-
+// swift-tools-version: 5.9
 import PackageDescription
 
 let package = Package(

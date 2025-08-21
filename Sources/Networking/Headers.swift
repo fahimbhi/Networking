@@ -1,9 +1,3 @@
-//
-//  Headers.swift
-//  LoveLocal
-//
-//  Created by Fahim on 25/04/24.
-//
 
 import Foundation
 

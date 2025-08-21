@@ -1,9 +1,3 @@
-//
-//  HTTPClient.swift
-//  LoveLocal
-//
-//  Created by Fahim on 21/04/24.
-//
 
 import Foundation
 import Alamofire

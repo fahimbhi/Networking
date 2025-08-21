@@ -1,9 +1,3 @@
-//
-//  ErrorItem.swift
-//  LoveLocal
-//
-//  Created by Fahim on 22/04/24.
-//
 
 import Foundation
 import AnyCodable
